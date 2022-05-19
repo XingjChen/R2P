@@ -1,0 +1,15 @@
+INFO:root:Dataset: cbmc
+INFO:root:There are 5991 training samples and 2561 test samples with 20501 RNAs and 13 proteins.
+INFO:root:The dimension after PCA is: 200
+INFO:root:
+
+INFO:root:EN: Test Loss: 0.3803, Test RMSE: 0.5789, Test R2: 0.4770, Test PCC: 0.7032
+INFO:root:
+
+INFO:root:KNN: Test Loss: 0.2775, Test RMSE: 0.4891, Test R2: 0.6197, Test PCC: 0.7864
+INFO:root:
+
+INFO:root:RF: Test Loss: 0.2890, Test RMSE: 0.4997, Test R2: 0.6125, Test PCC: 0.7837
+INFO:root:
+
+INFO:root:XGB: Test Loss: 0.3076, Test RMSE: 0.5165, Test R2: 0.5868, Test PCC: 0.7678

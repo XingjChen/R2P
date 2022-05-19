@@ -1,0 +1,15 @@
+INFO:root:Dataset: sln
+INFO:root:There are 27426 training samples and 3048 test samples with 13553 RNAs and 110 proteins.
+INFO:root:The dimension after PCA is: 200
+INFO:root:
+
+INFO:root:EN: Test Loss: 0.7353, Test RMSE: 0.8321, Test R2: 0.1653, Test PCC: nan
+INFO:root:
+
+INFO:root:KNN: Test Loss: 0.7462, Test RMSE: 0.8371, Test R2: 0.1121, Test PCC: 0.3733
+INFO:root:
+
+INFO:root:RF: Test Loss: 0.6158, Test RMSE: 0.7594, Test R2: 0.2747, Test PCC: 0.4502
+INFO:root:
+
+INFO:root:XGB: Test Loss: 0.6800, Test RMSE: 0.7964, Test R2: 0.1992, Test PCC: 0.3932

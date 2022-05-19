@@ -1,0 +1,7 @@
+INFO:mainlogger.util:Dataset: cbmc
+INFO:mainlogger.util:The dimension after PCA is:  200
+INFO:mainlogger.util:There are 599 pairred samples with 200 RNAs (after PCA) and 13 proteins for training.
+INFO:mainlogger.util:There are 4583 unlabeled mRNAs amples and 809 unlabeled protein samples for training.
+INFO:mainlogger.util:There are 2561 pairred samples for testing.
+INFO:mainlogger.util:
+

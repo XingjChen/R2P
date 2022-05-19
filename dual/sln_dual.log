@@ -1,0 +1,22 @@
+INFO:mainlogger.util:Dataset: sln
+INFO:mainlogger.util:The dimension after PCA is:  200
+INFO:mainlogger.util:There are 2742 pairred samples with 200 RNAs (after PCA) and 110 proteins for training.
+INFO:mainlogger.util:There are 12342 unlabeled mRNAs amples and 12342 unlabeled protein samples for training.
+INFO:mainlogger.util:There are 3048 pairred samples for testing.
+INFO:mainlogger.util:
+
+INFO:duallogger:Begin training!
+INFO:duallogger:Epoch 0: Train Loss: 1.7485, Val Loss: 1.6176, Best epoch: 0, Best val loss: 1.6176
+INFO:duallogger:Test Loss: 0.7390, Test RMSE: 0.8594, Test R2: 0.0774, Test PCC: 0.3461
+INFO:duallogger:Epoch 1: Train Loss: 1.6128, Val Loss: 1.6004, Best epoch: 1, Best val loss: 1.6004
+INFO:duallogger:Test Loss: 0.7390, Test RMSE: 0.8594, Test R2: 0.0774, Test PCC: 0.3461
+INFO:duallogger:Epoch 2: Train Loss: 1.5516, Val Loss: 1.5543, Best epoch: 2, Best val loss: 1.5543
+INFO:duallogger:Test Loss: 0.7390, Test RMSE: 0.8594, Test R2: 0.0774, Test PCC: 0.3461
+INFO:duallogger:Epoch 3: Train Loss: 1.5149, Val Loss: 1.5069, Best epoch: 3, Best val loss: 1.5069
+INFO:duallogger:Test Loss: 0.7390, Test RMSE: 0.8594, Test R2: 0.0774, Test PCC: 0.3461
+INFO:duallogger:Epoch 4: Train Loss: 1.4800, Val Loss: 1.4756, Best epoch: 4, Best val loss: 1.4756
+INFO:duallogger:Test Loss: 0.7390, Test RMSE: 0.8594, Test R2: 0.0774, Test PCC: 0.3461
+INFO:duallogger:Epoch 5: Train Loss: 1.4524, Val Loss: 1.4696, Best epoch: 5, Best val loss: 1.4696
+INFO:duallogger:Test Loss: 0.7390, Test RMSE: 0.8594, Test R2: 0.0774, Test PCC: 0.3461
+INFO:duallogger:Epoch 6: Train Loss: 1.4339, Val Loss: 1.4084, Best epoch: 6, Best val loss: 1.4084
+INFO:duallogger:Test Loss: 0.7390, Test RMSE: 0.8594, Test R2: 0.0774, Test PCC: 0.3461
